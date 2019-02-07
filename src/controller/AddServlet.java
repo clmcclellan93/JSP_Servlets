@@ -13,7 +13,7 @@ import model.Calculator;
 /**
  * Servlet implementation class CalculatorServlet
  */
-@WebServlet("/CalculatorServlet")
+@WebServlet("/AddServlet")
 public class AddServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
